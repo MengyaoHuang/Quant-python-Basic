@@ -8,3 +8,5 @@ if-elif-else conditionals, for and while loops,lists and tuples, and
 list comprehensions.
 
 Here is my [basics Jupyter Notebook](https://github.com/MengyaoHuang/Quant-python/blob/master/python-basics-notebook.ipynb).
+## Python problems Solution
+There are many interesting problems to solve with python. The following Hyperants problem is what we learned initially. Here is the [solution](http://github.com/MengyaoHuang/Quant-python/blob/master/Hyperants.ipynb).
