@@ -7,4 +7,4 @@ We learned about python datatypes,
 if-elif-else conditionals, for and while loops,lists and tuples, and
 list comprehensions.
 
-Here is my basics Jupyter Notebook.
+Here is my [basics Jupyter Notebook](https://github.com/MengyaoHuang/Quant-python/blob/master/python-basics-notebook.ipynb).
